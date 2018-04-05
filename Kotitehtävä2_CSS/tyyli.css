@@ -1,0 +1,19 @@
+﻿body{
+    font-family: Verdana, sans-serif;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Arial;
+}
+h2 {
+    font-family: 'Open Sans', sans-serif;
+}
+/*viitataan html:n luokkaan*/
+.p1 {
+    color: chartreuse;
+    text-align:center;
+}
+/*viitataan html:n id:hen*/
+#p0 {
+    color: deeppink;
+    text-transform:capitalize;
+}
